@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This project presents a comprehensive sales analysis for Vrinda Store for the year 2022. The primary objective was to leverage sales data to uncover key trends and business insights, helping the company make informed, data-driven decisions. The analysis was conducted using Microsoft Excel, showcasing proficiency in data cleaning, pivot tables, and data visualization.
+This project presents a comprehensive sales analysis for Vrinda Store for the year 2022. The primary objective was to leverage sales data to uncover key trends and business insights, helping the company make informed, data-driven decisions. <br>The analysis was conducted using Microsoft Excel, showcasing proficiency in data cleaning, pivot tables, and data visualization.
 
 ---
 
@@ -15,7 +15,7 @@ The data used for this analysis is a sales dataset provided by Vrinda Store.
 ### **Key Findings & Insights**
 
 * **Yearly Sales Trend**: Analyzed the sales data to identify monthly and quarterly trends. The analysis shows a clear sales peak during the **February-April** and **July-August** periods.
-    This spike is likely due to festivals like **Holi** (March), **Maha Shivaratri** (February/March), **Raksha Bandhan** (August), and **Krishna Janmashtami** (August), as well as **Independence Day** (August 15).
+    <br>This spike is likely due to festivals like **Holi** (March), **Maha Shivaratri** (February/March), **Raksha Bandhan** (August), and **Krishna Janmashtami** (August), as well as **Independence Day** (August 15).
 
     ![Sales Trend Chart](https://github.com/user-attachments/assets/aa3eb114-3be5-43a9-a756-5b9152cf2e0c)
 
